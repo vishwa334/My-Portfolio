@@ -1,4 +1,4 @@
-import React from 'react'
+ import React from 'react'
 import { Nav, NavLink, NavbarContainer, Span, NavLogo, NavItems, GitHubButton, ButtonContainer, MobileIcon, MobileMenu, MobileNavLogo, MobileLink } from './NavbarStyledComponent'
 import { DiCssdeck } from 'react-icons/di';
 import { FaBars } from 'react-icons/fa';
@@ -14,7 +14,7 @@ const Navbar = () => {
       <NavbarContainer>
         <NavLogo to='/'>
           <a style={{ display: "flex", alignItems: "center", color: "white", marginBottom: '20;', cursor: 'pointer' }}>
-            <DiCssdeck size="3rem" /> <Span>Portfolio</Span>
+            <DiCssdeck size="3rem" /> <Span>Vishwakarma</Span>
           </a>
         </NavLogo>
         <MobileIcon>
