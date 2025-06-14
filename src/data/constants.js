@@ -9,7 +9,7 @@ export const Bio = {
     "I am a driven and adaptable individual, always enthusiastic about embracing new challenges. Passionate about continuous learning, I strive to deliver exceptional results. With a proactive mindset and a positive attitude, I’m committed to making valuable contributions and reaching new heights in every opportunity I pursue.",
   github: "https://github.com/vishwa334",
   resume:
-    "https://drive.google.com/file/d/1ZwZxy0mgFt1PS9m29lIgIhayzOfn6d0E/view?usp=drive_link",
+    "https://drive.google.com/file/d/1H3mEkrZeLac7RiO9ZA7zUVHmZxNsGBaY/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/vishwa334/",
   twitter: " ",
   insta: "https://www.instagram.com/__vicky___sahani__/",
