@@ -273,6 +273,35 @@ export const education = [
 ];
 
 export const projects = [
+
+  {
+    id: 4,
+    title: "My Portfolio",
+    date: "March 2025",
+    description:
+      "he Personal Portfolio Website is a responsive and visually appealing web application designed to showcase my skills, projects, certifications, and experience as a Java Full Stack Developer. It serves as an interactive resume, helping recruiters and collaborators learn more about my background and work.",
+    image:
+      "https://github.com/vishwa334/my_img/blob/main/Screenshot%202025-06-14%20015639.png?raw=true",
+    tags: ["React JS",
+       "Tailwind CSS", 
+       "Material UI",
+        "JavaScript",
+        "GitHub Pages",
+        "Responsive Design",
+       "Google Drive Cloud API"],
+    category: "web app",
+    github: "https://github.com/vishwa334/My-Portfolio",
+    webapp: "https://my-portfolio-k4ml.onrender.com/",
+    member: [
+      {
+        name: "Vishwakarma kumar",
+        img: "https://github.com/vishwa334/my_img/blob/main/myimg.png?raw=true",
+        linkedin: "https://www.linkedin.com/in/vishwa334/",
+        github: "https://github.com/vishwa334/",
+      },
+      
+    ],
+  },
   {
     id: 0,
     title: "Smart Contact Manager",
@@ -397,34 +426,7 @@ export const projects = [
       
     ],
   },
-  {
-    id: 4,
-    title: "My Portfolio",
-    date: "March 2025",
-    description:
-      "he Personal Portfolio Website is a responsive and visually appealing web application designed to showcase my skills, projects, certifications, and experience as a Java Full Stack Developer. It serves as an interactive resume, helping recruiters and collaborators learn more about my background and work.",
-    image:
-      "https://github.com/vishwa334/my_img/blob/main/Screenshot%202025-06-14%20015639.png?raw=true",
-    tags: ["React JS",
-       "Tailwind CSS", 
-       "Material UI",
-        "JavaScript",
-        "GitHub Pages",
-        "Responsive Design",
-       "Google Drive Cloud API"],
-    category: "web app",
-    github: "",
-    webapp: "",
-    member: [
-      {
-        name: "Vishwakarma kumar",
-        img: "https://github.com/vishwa334/my_img/blob/main/myimg.png?raw=true",
-        linkedin: "https://www.linkedin.com/in/vishwa334/",
-        github: "https://github.com/vishwa334/",
-      },
-      
-    ],
-  },
+  
  
 ];
 
